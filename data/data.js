@@ -1,7 +1,7 @@
 var DATA = {
   'categories': {
     'Data Warmup (Part 1)':['Pivot Charts in Excel','Thematic Maps with ArcMap','Thematic Maps with Grasshopper'],
-    'Data Warmup (Part 2)':['Pivot Charts in Excel','Thematic Maps with ArcMap','Thematic Maps with Grasshopper'],
+    'Data Warmup (Part 2)':['Creating Attributes and Table Joins in Excel','Spatial Joins in ArcMap','Spatial Joins in Grasshopper'],
     'Basics':['that one','another one'],
     'Visualization':['Intro to Python','that one'],
     'Web Mapping':['Uploading to Mapbox']
@@ -38,6 +38,16 @@ var DATA = {
         'Grasshopper Definition':'https://drive.google.com/file/d/1vCNKzbO6OOi0REVuZBtZyXRR2zTlJBhG/view'
       },
       'software':['Rhino','Grasshopper'],
+      'skills':['None']
+    },
+    'Creating Attributes and Table Joins in Excel': {
+      'image':'images/Thematic_ArcMap.png',
+      'keywords':['table join'],
+      'text':'Create new attributes using formulas. Also, learn how to join two tables together from different data tables using a table join.',
+      'links':{
+        'PLUTO Data':'https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page#mappluto'
+      },
+      'software':['ArcMap'],
       'skills':['None']
     },
     'Intro to Python': {
